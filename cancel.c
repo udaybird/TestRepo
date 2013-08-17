@@ -23,6 +23,7 @@
 
 #include "svn_delta.h"
 #include "test.h"
+#include "nexttest.h"
 struct edit_baton
 {
   const svn_delta_editor_t *wrapped_editor;
